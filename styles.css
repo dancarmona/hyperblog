@@ -2,7 +2,7 @@ body {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     color: green;
-    background-color: pink;
+    background-color: black;
     height: 100px;
     width: 100%;
     
@@ -14,7 +14,7 @@ div {
     color: brown;
     height: 200px;
     width: 70%;
-    background-color: blue;
+    background-color:white;
     margin: 0 auto;
 }
 
