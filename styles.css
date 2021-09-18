@@ -6,3 +6,13 @@ body {
     height: 100px;
     width: 100%;
 }
+
+div {
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: brown;
+    height: 200px;
+    width: 70%;
+    background-color: blue;
+    margin: 0 auto;
+}
